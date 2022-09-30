@@ -4,13 +4,13 @@ The data and the .rmd version of the code is not available due to privacy issues
 
 Pdf and html versions of the R Markdown code files are available for download. The html version is recommended as it renders better than the pdf version. To view the html version please click on the following links:
 
-http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_main_analysis_new.html
+http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_main_analysis.html
 
-http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity1_new.html
+http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity1.html
 
-http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity2_new.html
+http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity2.html
 
-http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity3_new.html
+http://htmlpreview.github.io/?https://github.com/biondof/BARCODE/blob/main/BARCODE_Project_sensitivity3.html
 
  ## Citation
  If  you use this code, please consider citing our paper:
